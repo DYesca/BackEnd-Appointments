@@ -27,7 +27,6 @@ use App\Http\Controllers\Provider\SelectScheduleController;
 use App\Http\Controllers\Provider\AppointmentController;
 use App\Http\Controllers\Provider\SelectAppointmentController;
 use App\Http\Controllers\Provider\SelectProviderInfoController;
-use App\Http\Controllers\Auth\BroadcastAuthController;
 use Illuminate\Support\Facades\Broadcast;
 
 // LOGIN y LOGOUT
